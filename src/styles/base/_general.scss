@@ -2,3 +2,14 @@ h1, h2, h3, h4, h5, h6, ul {
     margin: 0;
     padding: 0;
 }
+
+body {
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+.title {
+    font-family: Gilroy, sans-serif;
+    font-weight: 600;
+    font-size: 70px;
+}
